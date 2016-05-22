@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2015 Yank555.lu Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Forward lookup -->
+    <string name="nearby_places">Lugares cercanos</string>
+    <string name="people">Gente</string>
+
+    <!-- Number lookup -->
+    <string name="lookup_settings_label">Búsqueda de número de tfno.</string>
+    <string name="lookup_settings_description">Busca números de teléfono desconocidos</string>
+    <string name="enable_forward_lookup_title">Búsqueda directa</string>
+    <string name="enable_forward_lookup_summary">Mostrar lugares cercanos al buscar en el marcador</string>
+    <string name="enable_people_lookup_title">Buscar personas</string>
+    <string name="enable_people_lookup_summary">Mostrar resultados de personas al buscar en el marcador</string>
+    <string name="enable_reverse_lookup_title">Activar la búsqueda inversa</string>
+    <string name="enable_reverse_lookup_summary">Buscar información de la persona o ubicación cuando el remitente es desconocido</string>
+    <string name="forward_lookup_provider_title">Proveedor de búsqueda</string>
+    <string name="people_lookup_provider_title">Proveedor para buscar personas</string>
+    <string name="reverse_lookup_provider_title">Proveedor de búsqueda inversa</string>
+
+    <!-- Chinese Reverse Lookup Provider -->
+    <string name="cyngn_reverse_lookup_provider_name">Cyngn Chinese (CN)</string>
+
+    <!-- In-call Vibration options -->
+   
+    <string name="incall_vibration_category_title">Vibrar al sonar</string>
+    <string name="incall_vibrate_outgoing_title">Vibrar al responder</string>
+    <string name="incall_vibrate_hangup_title">Vibrar al colgar</string>
+    <string name="incall_vibrate_45_title">Vibrar cada minuto</string>
+    <string name="incall_vibrate_45_summary">Vibrar en el segundo 45 de cada minuto de una llamada saliente</string>
+
+</resources>
+
